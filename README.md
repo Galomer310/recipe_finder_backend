@@ -189,13 +189,3 @@ To deploy your backend, you can use **Railway, Render, or Vercel**.
 
 ## 📜 License
 This project is **open-source** under the **MIT License**.
-
----
-
-### **✅ Your Backend is Now Fully Documented!**
-You can now:
-✔ Upload your **`README.md`** to GitHub  
-✔ Share your API **with others**  
-✔ Deploy your backend **for production**  
-
-🚀 Let me know if you need help with **GitHub deployment** or **connecting the frontend!** 🔥🔥
